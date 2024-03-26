@@ -16,3 +16,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+## __A Engenharia de requisitos é uma área que oferece às equipes de inúmeros projetos a organização e padronização de tudo que abrange entre a equipe e a ideia principal.__
+
+- *Qual a função da engenharia de requisitos?*
+  #### Evitar que inúmeros imprevistos aconteçam diante da produção de um projeto em equipe.
+- *Quais são as funções de um engenheiro de requisitos?*
+  #### Gerenciamento e a validação dos requisitos. Ele precisa prestar muita atenção e toda a equipe e solucionar grande parte dos problemas.
+- *Quais as atividades de requisitos?*
+  #### Análise do problema, Entendimento das necessidades de usuários e *StakeHolders*, Definição do sistema, Refinamento da definição do sistema, construção do sistema correto.
+  []() <-- colocar link do site
